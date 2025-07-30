@@ -28,7 +28,8 @@ This project was created to practice:
 
 📸 Preview
 <img width="686" height="727" alt="form-validator-02" src="https://github.com/user-attachments/assets/7d58dfd0-ce3f-469a-909d-32563acff25e" />
-<img width="643" height="727" alt="form-validator-01" src="https://github.com/user-attachments/assets/89d8a007-2028-466f-a1ff-5453e6f9d24f" />
+
+
 
 
 🔗 Live Demo
@@ -36,6 +37,7 @@ This project was created to practice:
 
 📁 How to Use
 1.Clone the repository
+
 git clone https://github.com/your-username/form-validator.git
 
 2.Open index.html in your browser
